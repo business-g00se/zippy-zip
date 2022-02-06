@@ -3,7 +3,6 @@
 use std::io::prelude::*;
 use std::io::{Seek, Write};
 use std::iter::Iterator;
-use zip::result::ZipError;
 use zip::write::FileOptions;
   
 use std::fs::File;
