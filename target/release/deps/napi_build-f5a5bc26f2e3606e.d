@@ -1,0 +1,12 @@
+/home/alex/business-goose/zippy-zip/target/release/deps/napi_build-f5a5bc26f2e3606e.rmeta: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/macos.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/windows.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x64.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x86.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-arm64.lib
+
+/home/alex/business-goose/zippy-zip/target/release/deps/libnapi_build-f5a5bc26f2e3606e.rlib: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/macos.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/windows.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x64.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x86.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-arm64.lib
+
+/home/alex/business-goose/zippy-zip/target/release/deps/napi_build-f5a5bc26f2e3606e.d: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/macos.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/windows.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x64.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x86.lib /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-arm64.lib
+
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/lib.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/macos.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/windows.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x64.lib:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-x86.lib:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/napi-build-1.2.1/src/libs/node-arm64.lib:

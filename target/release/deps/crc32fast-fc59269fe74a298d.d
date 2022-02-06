@@ -1,0 +1,12 @@
+/home/alex/business-goose/zippy-zip/target/release/deps/crc32fast-fc59269fe74a298d.rmeta: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/baseline.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/combine.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/table.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/pclmulqdq.rs
+
+/home/alex/business-goose/zippy-zip/target/release/deps/libcrc32fast-fc59269fe74a298d.rlib: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/baseline.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/combine.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/table.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/pclmulqdq.rs
+
+/home/alex/business-goose/zippy-zip/target/release/deps/crc32fast-fc59269fe74a298d.d: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/baseline.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/combine.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/table.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/pclmulqdq.rs
+
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/lib.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/baseline.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/combine.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/mod.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/table.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/crc32fast-1.3.1/src/specialized/pclmulqdq.rs:
