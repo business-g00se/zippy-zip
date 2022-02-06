@@ -128,8 +128,8 @@ jobs:
   publish:
     name: Publish
     runs-on: self-hosted
-    needs:
-      - test-linux-x64-gnu-binding
+    # needs:
+    #   - test-linux-x64-gnu-binding
     steps:
       - uses: actions/checkout@v2
       - name: Setup node
