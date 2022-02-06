@@ -1,0 +1,11 @@
+/home/alex/sandbox/zippy-zip/target/rls/debug/deps/futures_core-f01b390b9d5512b6.rmeta: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/home/alex/sandbox/zippy-zip/target/rls/debug/deps/futures_core-f01b390b9d5512b6.d: /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs /home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs
+
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/lib.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/future.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/stream.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/mod.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/poll.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/mod.rs:
+/home/alex/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.19/src/task/__internal/atomic_waker.rs:
