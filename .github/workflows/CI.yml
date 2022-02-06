@@ -41,6 +41,7 @@ jobs:
           node-version: 16
           check-latest: true
           cache: yarn
+          clean: false
           architecture: ${{ matrix.settings.architecture }}
       - name: Install
         uses: actions-rs/toolchain@v1
